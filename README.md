@@ -11,3 +11,7 @@ Each repository contains an `overview.md` file where I describe the challenge in
 - [Selection sort](https://github.com/clements-steven/coding-challenges/tree/master/selection-sort)
 - [Quick sort](https://github.com/clements-steven/coding-challenges/tree/master/quick-sort)
 - [Marge sort](https://github.com/clements-steven/coding-challenges/tree/master/merge-sort)
+
+## Binary tree algorithms
+
+- [Node class](https://github.com/clements-steven/coding-challenges/tree/master/node-class)
