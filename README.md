@@ -6,4 +6,8 @@ Each repository contains an `overview.md` file where I describe the challenge in
 
 ## Sorting algorithms
 
-- [bubble-sort](https://github.com/clements-steven/coding-challenges/tree/master/bubble-sort)
+- [Bubble sort](https://github.com/clements-steven/coding-challenges/tree/master/bubble-sort)
+- [Insertion sort](https://github.com/clements-steven/coding-challenges/tree/master/insertion-sort)
+- [Selection sort](https://github.com/clements-steven/coding-challenges/tree/master/selection-sort)
+- [Quick sort](https://github.com/clements-steven/coding-challenges/tree/master/quick-sort)
+- [Marge sort](https://github.com/clements-steven/coding-challenges/tree/master/merge-sort)
