@@ -15,3 +15,4 @@ Each repository contains an `overview.md` file where I describe the challenge in
 ## Binary tree algorithms
 
 - [Node class](https://github.com/clements-steven/coding-challenges/tree/master/node-class)
+- [Depth-first values](https://github.com/clements-steven/coding-challenges/tree/master/depth-first-values)
