@@ -6,4 +6,4 @@ Each repository contains an `overview.md` file where I describe the challenge in
 
 ## Sorting algorithms
 
-- [bubble-sort]()
+- [bubble-sort](https://github.com/clements-steven/coding-challenges/tree/master/bubble-sort)
